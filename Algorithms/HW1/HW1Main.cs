@@ -10,6 +10,8 @@ namespace Algorithms.HW1
         {
             BMI.CalculateBMI();
             FourNumbers.FindMax();
+            NumbersSwapper.SwapNumberWithThird();
+            NumbersSwapper.SwapNumbersWithoutThird();
         }
     }
 }
