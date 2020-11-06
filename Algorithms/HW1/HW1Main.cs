@@ -12,6 +12,7 @@ namespace Algorithms.HW1
             FourNumbers.FindMax();
             NumbersSwapper.SwapNumberWithThird();
             NumbersSwapper.SwapNumbersWithoutThird();
+            QuadraticEquation.FindRoots();
         }
     }
 }
