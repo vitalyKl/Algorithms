@@ -13,6 +13,7 @@ namespace Algorithms.HW1
             NumbersSwapper.SwapNumberWithThird();
             NumbersSwapper.SwapNumbersWithoutThird();
             QuadraticEquation.FindRoots();
+            TimeOfYear.DefineTime();
         }
     }
 }

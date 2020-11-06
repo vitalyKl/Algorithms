@@ -12,8 +12,8 @@ namespace Algorithms.HW1
             Console.WriteLine("Введите массу:");
             double weight = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Введите рост:");
-            double height = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Введите рост в сантиметрах:");
+            double height = Convert.ToDouble(Console.ReadLine())/100;
 
             double output = weight / Math.Pow(height, 2);
 
