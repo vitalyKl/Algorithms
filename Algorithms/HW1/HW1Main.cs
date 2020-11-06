@@ -8,12 +8,13 @@ namespace Algorithms.HW1
     {
         public HW1Main()
         {
-            BMI.CalculateBMI();
-            FourNumbers.FindMax();
-            NumbersSwapper.SwapNumberWithThird();
-            NumbersSwapper.SwapNumbersWithoutThird();
-            QuadraticEquation.FindRoots();
-            TimeOfYear.DefineTime();
+            //BMI.CalculateBMI();
+            //FourNumbers.FindMax();
+            //NumbersSwapper.SwapNumberWithThird();
+            //NumbersSwapper.SwapNumbersWithoutThird();
+            //QuadraticEquation.FindRoots();
+            //TimeOfYear.DefineTime();
+            YearsOfHuman.DefineWord();
         }
     }
 }
